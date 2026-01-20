@@ -1,0 +1,5 @@
+node_modules/
+.vercel/
+credentials.txt
+*.log
+.DS_Store
